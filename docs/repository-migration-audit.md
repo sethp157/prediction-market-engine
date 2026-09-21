@@ -44,3 +44,7 @@ Study README reproduction instructions retain the original absolute Windows path
 No study scripts were executed or rewritten, and no new scientific results were produced. The earlier numerical reviews are preserved; this audit verifies their inputs remain identical rather than repeating their calculations. Source truth, historical availability, statistical assumptions, economic viability, and data rights are outside this hash check.
 
 No commit SHA, push, remote publication, fresh-clone verification, or evaluation-engine implementation is asserted here.
+
+## Archive delivery verification
+
+Large payload files are stored in checksum-verified archive parts because the connected GitHub app limits request size. The archive contains 4,774 files at their original relative paths. The restoration utility verified every part, the complete ZIP, and all 4,774 payload file hashes against the existing originals; all matched. It restored zero files during this check because the originals were already present. This preserves the earlier 4,812-file scientific import check and changes delivery layout only. Root PACKAGE_MANIFEST.json covers committed delivery files; original scientific manifests apply after restoration.

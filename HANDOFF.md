@@ -61,6 +61,8 @@ These populations are now exposed development evidence for any changed method. N
 
 ## Evidence paths and reproduction
 
+**Restore the archived data first:** run `pwsh -File audit/Restore-Evidence.ps1` from this repository root. [audit/README.md](audit/README.md) explains the numbered archive parts, SHA-256 verification, and refusal to overwrite differing files. Large raw responses, prepared inputs, and source manifests are stored in that archive because of upload-size limits; their uncompressed bytes and paths are unchanged. The commands below assume restoration is complete.
+
 - [EXP-0001 README](research/EXP-0001/README.md) and [EXP-0002 README](research/EXP-0002/README.md): inventories, dependency versions, provenance limits, and replay instructions.
 - Each study's protocol.md, protocol-freeze.json, fit-lock.json, results.json, request-manifest.jsonl, coverage.csv, and per-event-results.csv are the primary audit records.
 - Each raw/ directory contains the retained source responses. Preserve them and their hashes.

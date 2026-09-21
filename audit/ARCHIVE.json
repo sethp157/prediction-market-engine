@@ -1,0 +1,129 @@
+{
+  "created_at_utc": "2026-09-20T18:57:02.5432154-05:00",
+  "format": "Concatenate parts in listed order to obtain a ZIP archive; verify every part and the complete ZIP before restoring.",
+  "payload_file_count": 4774,
+  "archive_bytes": 5902538,
+  "archive_sha256": "c7e311fdb0d33b7dd6f22f8807b905756d3634bcb9a1c9e8c8c07e55a01b4608",
+  "parts": [
+    {
+      "file": "audit/parts/research-evidence.zip.000",
+      "bytes": 250000,
+      "sha256": "70f7508ca8ac409f5fa036e04733c54cb7301a86fa676bb0e06f1218cacea848"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.001",
+      "bytes": 250000,
+      "sha256": "e830c9bdc2758d090b016d4e1d1716f4620bca9ebe75666779f8753c5a2ff09d"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.002",
+      "bytes": 250000,
+      "sha256": "a8823af9139f08993871f0817d2ab6a078adddd7f65aabfd9c65b3108b08cec4"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.003",
+      "bytes": 250000,
+      "sha256": "9d5f4dd158b9fc1b8a6eba8950c79f3dc4279c79f73a368832f681c6cc76d7e3"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.004",
+      "bytes": 250000,
+      "sha256": "8c35346048b892cff2b8d7d4e4ecfb48487996b5ab77b2d91e94b21e0678e818"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.005",
+      "bytes": 250000,
+      "sha256": "42a74e91a65fcd2e5052a134c0f0ab14f1bc87b3e9ee0c5d6890671ff60ba69c"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.006",
+      "bytes": 250000,
+      "sha256": "df9ee6834ffdec3bd18bac1f9da3ab2a471b5aa186114b09d665bd51bfc91149"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.007",
+      "bytes": 250000,
+      "sha256": "6ae72c3cfa38d1034cdf6e000eb129fd97fe5eb0180a7e6b42c2fda8cf030c28"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.008",
+      "bytes": 250000,
+      "sha256": "f0feb705d0edaad604c43494f72d7279a8da6db101009b28945efbd54c4e3fa3"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.009",
+      "bytes": 250000,
+      "sha256": "b0884de4651956a79975764109030beabab7349d6f966a96c7b82e347db1562d"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.010",
+      "bytes": 250000,
+      "sha256": "aa833e9f7a818c9cbbbe746db28fa659352b10b180376377aead6db5f3f71d82"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.011",
+      "bytes": 250000,
+      "sha256": "d8535cec565114bb630540acd1a3be8784f6140b69499b48a7623027b106b626"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.012",
+      "bytes": 250000,
+      "sha256": "b2dee28a25e19131d39e8366239f9b37f8e19837a3b3aeb761fc8b4652200cbe"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.013",
+      "bytes": 250000,
+      "sha256": "6c8cef31883f858be0ee615c60df3c1e6b13538b8890f6d552cad2e44853e27a"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.014",
+      "bytes": 250000,
+      "sha256": "53a16aba002b54c03e0dcbcce81dada320c49afb78f1d451497758acc556c7ad"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.015",
+      "bytes": 250000,
+      "sha256": "39baa582e9988fc75cdd6d0d8dae85b000dad9c6bcddd6890dbe2f5c10782cd7"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.016",
+      "bytes": 250000,
+      "sha256": "c7c6d1260aefee1aae2b71ce5b5a3a0ba4072e2e00ef53408de53b48a9db99dd"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.017",
+      "bytes": 250000,
+      "sha256": "0f2f575a33840cc6fd7a6b3411e172c1072015a394157141612b0c51fb8b88e6"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.018",
+      "bytes": 250000,
+      "sha256": "58073355f102722f7bf1c2f8718e6f93035cd501216a9db256794f3d94144014"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.019",
+      "bytes": 250000,
+      "sha256": "53a9b6a9802e87e356e74b0ddf06e0b59fad477300b22fc0a66f27e7b28b022f"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.020",
+      "bytes": 250000,
+      "sha256": "c1692edc2feaca324b471d2a2b4ed8285e33c04467b9c3fd6f7693c0978d0915"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.021",
+      "bytes": 250000,
+      "sha256": "bdb6afc2f5919d9a32bafc632b5845de59f6604e40cc138660cc3f11c7348b03"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.022",
+      "bytes": 250000,
+      "sha256": "f42a99e81ff4808705ef8612ea9c1f5dfcea53364883d436668712323c14725a"
+    },
+    {
+      "file": "audit/parts/research-evidence.zip.023",
+      "bytes": 152538,
+      "sha256": "b127621275938043f750e088a7304b554d1d155a8640a2c13a235c0aaa36f515"
+    }
+  ]
+}

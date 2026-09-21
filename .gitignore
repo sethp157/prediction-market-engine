@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.part
+collector.lock
+
+# Large immutable evidence is restored from audit/parts; keep restored files untracked.
+/docs/history/pre-archive-delivery/PACKAGE_MANIFEST.json
+/docs/history/pre-repository-handoff/PACKAGE_MANIFEST.json
+/research/EXP-0001/markets-study.json
+/research/EXP-0001/package-manifest.json
+/research/EXP-0001/prepared-events.json
+/research/EXP-0001/request-manifest.jsonl
+/research/EXP-0002/markets-study.json
+/research/EXP-0002/package-manifest.json
+/research/EXP-0002/prepared-events.json
+/research/EXP-0002/request-manifest.jsonl
+/research/EXP-0001/raw/
+/research/EXP-0002/raw/

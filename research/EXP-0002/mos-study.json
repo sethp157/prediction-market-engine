@@ -1,0 +1,3652 @@
+[
+  {
+    "target_date": "2025-07-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-06-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-06-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025063006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025070906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025071906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-07-31T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025072906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-07-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025073006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-07-31T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-07-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025073106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025080906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025081906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-08-31T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025082906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-08-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025083006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-08-31T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-08-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025083106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025090906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025091906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-09-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-09-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025092906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-09-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-09-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025093006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025100906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025101906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-10-31T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025102906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-10-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025103006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-10-31T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-10-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025103106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025110906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025111906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-11-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-11-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025112906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-11-30T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-11-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025113006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-01T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-03T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-02T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-04T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-03T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-05T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-04T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-06T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-05T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-07T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-06T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-08T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-07T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-09T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-08T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-10T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-09T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-11T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025120906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-10T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-12T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-11T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-13T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-12T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-14T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-13T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-15T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-14T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-16T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-15T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-17T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-16T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-18T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-17T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-19T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-18T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-20T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-19T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-21T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025121906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-20T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-22T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-21T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-23T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-22T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-24T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-23T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-25T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-24T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-26T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-25T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-27T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-26T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-28T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-27T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-29T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-28T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-30T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-29T06:00:00+00:00",
+    "required_ftime_utc": "2025-12-31T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025122906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2025-12-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-30T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-01T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025123006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2025-12-31T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-02T00:00:00+00:00",
+    "assumed_available_utc": "2025-12-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2025123106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026010906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026011906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-29T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-30T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-29T06:00:00+00:00",
+    "required_ftime_utc": "2026-01-31T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026012906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-01-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-30T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026013006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-01-31T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-02T00:00:00+00:00",
+    "assumed_available_utc": "2026-01-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026013106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026020906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026021906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-02-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-02-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-02-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-02T00:00:00+00:00",
+    "assumed_available_utc": "2026-02-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026022806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026030906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026031906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-29T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-30T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-29T06:00:00+00:00",
+    "required_ftime_utc": "2026-03-31T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026032906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-03-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-30T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026033006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-03-31T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-02T00:00:00+00:00",
+    "assumed_available_utc": "2026-03-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026033106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026040906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026041906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-29T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-04-30T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-04-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-29T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026042906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-04-30T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-02T00:00:00+00:00",
+    "assumed_available_utc": "2026-04-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026043006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026050906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026051906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-29T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-30T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-29T06:00:00+00:00",
+    "required_ftime_utc": "2026-05-31T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026052906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-05-31",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-30T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-30T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026053006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-01",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-05-31T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-02T00:00:00+00:00",
+    "assumed_available_utc": "2026-05-31T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026053106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-02",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-01T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-03T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-01T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-03",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-02T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-04T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-02T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-04",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-03T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-05T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-03T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-05",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-04T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-06T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-04T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-06",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-05T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-07T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-05T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-07",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-06T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-08T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-06T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-08",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-07T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-09T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-07T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-09",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-08T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-10T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-08T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-10",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-09T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-11T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-09T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026060906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-11",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-10T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-12T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-10T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-12",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-11T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-13T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-11T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-13",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-12T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-14T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-12T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-14",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-13T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-15T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-13T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-15",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-14T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-16T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-14T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-16",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-15T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-17T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-15T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-17",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-16T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-18T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-16T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-18",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-17T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-19T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-17T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-19",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-18T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-20T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-18T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-20",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-19T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-21T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-19T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026061906.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-21",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-20T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-22T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-20T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062006.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-22",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-21T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-23T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-21T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062106.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-23",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-22T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-24T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-22T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062206.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-24",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-23T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-25T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-23T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062306.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-25",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-24T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-26T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-24T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062406.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-26",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-25T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-27T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-25T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062506.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-27",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-26T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-28T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-26T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062606.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-28",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-27T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-29T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-27T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062706.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-29",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-28T06:00:00+00:00",
+    "required_ftime_utc": "2026-06-30T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-28T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062806.json",
+    "response_ok": true
+  },
+  {
+    "target_date": "2026-06-30",
+    "station": "KMIA",
+    "model": "GFS",
+    "runtime_utc": "2026-06-29T06:00:00+00:00",
+    "required_ftime_utc": "2026-07-01T00:00:00+00:00",
+    "assumed_available_utc": "2026-06-29T12:00:00+00:00",
+    "raw_file": "mos-KMIA-GFS-2026062906.json",
+    "response_ok": true
+  }
+]

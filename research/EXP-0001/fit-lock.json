@@ -1,0 +1,116 @@
+{
+  "created_utc": "2026-09-19T03:03:22.981746+00:00",
+  "beta": 1.25,
+  "training_grid": [
+    {
+      "beta": 0.5,
+      "brier": 0.11881922401257565
+    },
+    {
+      "beta": 0.75,
+      "brier": 0.1138964702841328
+    },
+    {
+      "beta": 1.0,
+      "brier": 0.11140912858822685
+    },
+    {
+      "beta": 1.25,
+      "brier": 0.11063809542626603
+    },
+    {
+      "beta": 1.5,
+      "brier": 0.11105046536352901
+    },
+    {
+      "beta": 1.75,
+      "brier": 0.11227502234326331
+    },
+    {
+      "beta": 2.0,
+      "brier": 0.11405500398668934
+    }
+  ],
+  "provenance_checks": {
+    "raw_files_verified": 2201,
+    "metadata_pages_verified": 10,
+    "study_metadata_matches_sources": true
+  },
+  "coverage": {
+    "train": {
+      "expected": 123,
+      "metadata_present": 123,
+      "returned_contracts": 738,
+      "eligible": 118,
+      "excluded": 5,
+      "reason_counts": {
+        "incomplete_quotes": 4,
+        "missing_candle_window": 4,
+        "training_label_not_available": 1
+      }
+    },
+    "validation": {
+      "expected": 61,
+      "metadata_present": 61,
+      "returned_contracts": 366,
+      "eligible": 59,
+      "excluded": 2,
+      "reason_counts": {
+        "incomplete_quotes": 2,
+        "missing_candle_window": 2,
+        "not_created_and_open_at_cutoff": 2,
+        "zero_or_missing_mass": 2
+      }
+    },
+    "test_a": {
+      "expected": 90,
+      "metadata_present": 90,
+      "returned_contracts": 540,
+      "eligible": 90,
+      "excluded": 0,
+      "reason_counts": {}
+    },
+    "test_b": {
+      "expected": 91,
+      "metadata_present": 91,
+      "returned_contracts": 546,
+      "eligible": 90,
+      "excluded": 1,
+      "reason_counts": {
+        "incomplete_quotes": 1,
+        "missing_candle_window": 1
+      }
+    }
+  },
+  "exclusion_reason_counts": {
+    "incomplete_quotes": 7,
+    "missing_candle_window": 7,
+    "training_label_not_available": 1,
+    "not_created_and_open_at_cutoff": 2,
+    "zero_or_missing_mass": 2
+  },
+  "protocol_sha256": "DCA4B858076C254585E2F0E28399826555AB56A0BD3029F941C64B19BE26FD30",
+  "script_sha256": "2c02bf72e594652ad23803b89f4de820de61a4dbf21ad57dcd60c31554d7d79c",
+  "prepared_events_sha256": "33c575ff2d6e9f2b7fd66a86d0a1cc3797b448b4d41e4e26f62945a3ca9ef260",
+  "dependency_sha256": {
+    "coverage.json": "5a766928fbe1ff994e3fb7ad80eded11be5b6f560f756721da370cba98e1ed0e",
+    "collect.py": "0bc8f05872334e3027ad87b590f24e73119cb180c246749cf37744329981788d",
+    "protocol.md": "dca4b858076c254585e2f0e28399826555ab56a0bd3029f941c64b19be26fd30",
+    "amendments.md": "9c31bdf222d325db1be97df669cdd8ed8b81cd203810a4e5bcc00a57d57eb75d",
+    "protocol-freeze.json": "13d36b097d9d677cddf50916fc3c49505312484e7d096822829e4b0391bd6c99",
+    "request-manifest.jsonl": "d08e0421fd1556fb99b321e2f4c93c2c7357dd0906b2242bccb9b3543f1357cb"
+  },
+  "test_performance_exposed": false,
+  "train_scores": {
+    "market": 0.11140912858822685,
+    "candidate": 0.11063809542626603,
+    "raw": 0.11155473163841806,
+    "uniform": 0.1388888888888889
+  },
+  "validation_scores": {
+    "market": 0.10979930888511989,
+    "candidate": 0.10831769888475494,
+    "raw": 0.10986186440677966,
+    "uniform": 0.13888888888888895
+  }
+}

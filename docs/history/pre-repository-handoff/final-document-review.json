@@ -1,0 +1,12 @@
+{
+  "reviewed_at_utc": "2026-09-19T21:15:33.233136+00:00",
+  "reviewer": "Independent final document reviewer /root/origin_audit",
+  "status": "PASSED",
+  "scope": "Report, state, and D0006 checked against both final results and fit locks; scores, bounds, parameters, coverage, timestamps, hashes, limitations, and authority checked. No new data or methods.",
+  "files": {
+    "research/RESEARCH_REPORT.md": "c8230a0647f9a5ddbe27cd0449c1cfde33442bfd9cdcb0b732a1e19e7ed2acaf",
+    "RESEARCH_STATE.md": "93be8797d9ac2efd78f21a537fa4d5be4c2d46f90eacd4f3fcc9dfa0eb4d782e",
+    "docs/decisions/D0006-two-study-evidence-decision.md": "6b6305b428c74cc37ee23bd0d5ed7ef656be84d4a54685c5fa7a1ce4a4c61c77"
+  },
+  "limits": "Agent review is not external scientific replication or a new forecasting validation."
+}

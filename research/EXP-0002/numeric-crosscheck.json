@@ -1,0 +1,123 @@
+{
+  "status": "PASSED",
+  "recorded_at_utc": "2026-09-19T21:11:00.208384+00:00",
+  "reviewer": "Independent math reviewer /root/math_review",
+  "stage": "After EXP-0002 test exposure",
+  "method": "Python standard-library math.erf normal CDF, independent continuity-corrected bin formula, math.fsum event losses and split means; no analyze.py/scipy/NumPy scoring calls.",
+  "fixed_config": [
+    1,
+    1.5,
+    0.5
+  ],
+  "config_order": [
+    "bias_F",
+    "standard_deviation_F",
+    "weather_weight"
+  ],
+  "tolerance": 1e-12,
+  "maximum_absolute_difference": 8.326672684688674e-17,
+  "maximum_probability_sum_error": 2.220446049250313e-16,
+  "input_sha256": {
+    "prepared-events.json": "9ec2bea569220295cd39def06e0ac5fc30e3077959e23027dddd15b993736151",
+    "fit-lock.json": "1965a336c1c9ee2ae05a432455718479d2886725857def224b05fcb1275ce864",
+    "results.json": "5bd73d12263ccd577c16221016b44745f4a7763e3a522d6f841a31ead6118a95"
+  },
+  "splits": [
+    {
+      "split": "train",
+      "eligible_events": 113,
+      "recomputed": {
+        "raw": 0.12112831858407079,
+        "market": 0.1204627441162653,
+        "candidate": 0.11446618783945285,
+        "uniform": 0.1388888888888889,
+        "gain": 0.005996556276812436
+      },
+      "absolute_difference_from_results": {
+        "raw": 0.0,
+        "market": 0.0,
+        "candidate": 1.3877787807814457e-17,
+        "uniform": 0.0,
+        "gain": 8.673617379884035e-19
+      }
+    },
+    {
+      "split": "validation",
+      "eligible_events": 58,
+      "recomputed": {
+        "raw": 0.09453081896551724,
+        "market": 0.09524014157261017,
+        "candidate": 0.10400782523352728,
+        "uniform": 0.1388888888888889,
+        "gain": -0.008767683660917113
+      },
+      "absolute_difference_from_results": {
+        "raw": 1.3877787807814457e-17,
+        "market": 1.3877787807814457e-17,
+        "candidate": 0.0,
+        "uniform": 5.551115123125783e-17,
+        "gain": 6.938893903907228e-18
+      }
+    },
+    {
+      "split": "test_a",
+      "eligible_events": 88,
+      "recomputed": {
+        "raw": 0.1066794034090909,
+        "market": 0.10707802833389503,
+        "candidate": 0.10879060884797563,
+        "uniform": 0.1388888888888889,
+        "gain": -0.0017125805140806116
+      },
+      "absolute_difference_from_results": {
+        "raw": 1.3877787807814457e-17,
+        "market": 0.0,
+        "candidate": 2.7755575615628914e-17,
+        "uniform": 0.0,
+        "gain": 6.505213034913027e-19
+      }
+    },
+    {
+      "split": "test_b",
+      "eligible_events": 62,
+      "recomputed": {
+        "raw": 0.10192983870967742,
+        "market": 0.10181347597392998,
+        "candidate": 0.09934110312601417,
+        "uniform": 0.1388888888888889,
+        "gain": 0.0024723728479158023
+      },
+      "absolute_difference_from_results": {
+        "raw": 0.0,
+        "market": 1.3877787807814457e-17,
+        "candidate": 1.3877787807814457e-17,
+        "uniform": 8.326672684688674e-17,
+        "gain": 3.0357660829594124e-18
+      }
+    },
+    {
+      "split": "test_pooled",
+      "eligible_events": 150,
+      "recomputed": {
+        "raw": 0.10471625,
+        "market": 0.1049020133584428,
+        "candidate": 0.1048848131495649,
+        "uniform": 0.1388888888888889,
+        "gain": 1.7200208877906123e-05
+      },
+      "absolute_difference_from_results": {
+        "raw": 1.3877787807814457e-17,
+        "market": 0.0,
+        "candidate": 0.0,
+        "uniform": 2.7755575615628914e-17,
+        "gain": 1.1587410718438829e-18
+      }
+    }
+  ],
+  "no_refit_or_new_filters": true,
+  "limits": [
+    "Point-score arithmetic and aggregation only; no new empirical test or method selection.",
+    "Does not independently certify raw archive truth, label correctness, actual historical source publication, missingness, parameter optimality, bootstrap coverage, execution or economic viability.",
+    "Bootstrap intervals and the threshold decision were not recomputed in this arithmetic check."
+  ]
+}

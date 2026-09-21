@@ -1,0 +1,11 @@
+{
+  "recorded_at_utc": "2026-09-19T12:06:26.491189+00:00",
+  "original_interpreter_verified": "C:\\Users\\sethp\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "launcher": "py -3",
+  "python": "3.12.2",
+  "numpy": "1.26.4",
+  "matplotlib": "3.8.4",
+  "requests": "2.32.3",
+  "tzdata": "2024.1",
+  "note": "Original environment.json retained unchanged; this supplemental record adds the verified interpreter and timezone package."
+}

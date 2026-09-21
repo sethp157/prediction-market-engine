@@ -1,0 +1,3 @@
+# Preserve exact bytes: frozen research manifests cover Markdown, Python, JSON,
+# CSV, and source responses. Newline conversion would invalidate those hashes.
+* -text

@@ -1,0 +1,43 @@
+{
+  "status": "PASSED",
+  "recorded_at_utc": "2026-09-19T12:10:33.234944+00:00",
+  "reviewer": "Independent math/code reviewer /root/math_review",
+  "analysis_sha256": "9078bdcbea90cebd1abec9e2f6e8acc2f3f3f302604f3c893ef0757483e9c82a",
+  "reviewed_dependency_sha256": {
+    "collect.py": "c14bc0a43ca66afca189bea3b8657507db1f11e5fb45977026de7e4e81fa4bd8",
+    "protocol.md": "d7672bf369cf297cfa4b87b92be8396a05c09e4e81b2cc6e16b0c3fa395df098",
+    "clarifications.md": "b02493760da309260bfbd68bc436e5c1a6c98d17e833a51b1f471e9d8eb71691"
+  },
+  "stage": "Before EXP-0002 test-performance exposure",
+  "review_scope": "Frozen protocol and clarification interpretation, analysis and imported collector code, and synthetic fixtures only.",
+  "study_raw_or_prepared_data_inspected": false,
+  "study_outcomes_or_scores_inspected": false,
+  "fit_lock_present_at_review": false,
+  "results_present_at_review": false,
+  "reviewed_items": [
+    "Discretized normal bin probabilities, continuity correction, tail coverage, nonnegative normalized mixture, and weight-zero identity",
+    "125-combination training grid, tie ordering, train-only fitting, fixed later configuration, and equal-event Brier scoring",
+    "Decision-time DST and quote bounds; MOS explicitly UTC-naive fields, exact runtime and +42-hour horizon; +6-hour availability correctly labeled assumed",
+    "Raw hashes/bytes/inventory, successful and error-response URL maps, paginated metadata selection, MOS request map, locked dependencies, and repeated-evaluation guard",
+    "Separate source coverage, whole-event exclusions, malformed rule/timestamp handling, and outcome-integrity accounting",
+    "Registered calendar-block seeds, 10000 repetitions, 2.5th/97.5th percentile bounds, missing-resample unavailability, minimums and both-quarter pass requirement",
+    "Explicit exploratory/timing-unverified status; no claimed program-wide family-wise error guarantee"
+  ],
+  "synthetic_checks": [
+    "Final script built-in selfcheck passed without network or study data",
+    "All 125 configurations passed synthetic probability/identity checks",
+    "Continuity correction independently agreed with math.erf arithmetic",
+    "Synthetic bias direction, gap/overlap/tail partition, tie, station/horizon/invalid-value, and winter/summer MOS checks passed during review",
+    "Naive named-UTC fields accepted; explicit nonzero UTC offset rejected; constant and missing bootstrap fixtures passed"
+  ],
+  "resolved_findings": [
+    "Missing/non-string rules now generate an exclusion reason rather than crashing",
+    "Error-response URLs now must belong to the full allowed study request map, including scheduled requests without successful responses"
+  ],
+  "limits": [
+    "Code/synthetic review does not certify actual raw input integrity; runtime verification must succeed.",
+    "No empirical score, raw study outcome, prepared study input, model selection result, or test result was read by this reviewer.",
+    "Historical per-run MOS publication timing remains assumed; target-station/settlement-rule details must be accurately reported.",
+    "Bootstrap coverage remains approximate and assumption-dependent. This is not economic, execution, or AI-specific validation."
+  ]
+}

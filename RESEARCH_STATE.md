@@ -98,4 +98,6 @@ No further user decision is required for the authorized repository/documentation
 
 ## Files and session close
 
+Repository delivery uses directly browsable documentation plus a [verified archive](audit/README.md) for large evidence files. Run `pwsh -File audit/Restore-Evidence.ps1` before full audit or replay. The root package manifest covers committed delivery files; study manifests cover the restored scientific files. Archive packaging changes storage only, not results or source bytes. Native Git initially used a saved account without write access; the authorized connected GitHub app is used for publication.
+
 The original ZIP at C:\Users\sethp\Downloads\prediction-market-starter.zip and extracted original documents remain unchanged. Original ZIP SHA256: F69F6BE597F2556F7DCAB9575C7F2D511D6BDFD50B3BE74781990BB1BA7A2501. Historic Q1/Q2 ZIPs remain in the original workspace; all current documentation and extracted original documents are included here. This repository contains governing documents, decisions, report, charts, raw evidence, reproduction instructions, and manifests. No production evaluation engine was created. Pre-repository governing documents and the earlier package manifest are retained under docs/history/pre-repository-handoff; frozen study bytes remain unchanged.

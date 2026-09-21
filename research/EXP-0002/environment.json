@@ -1,0 +1,15 @@
+{
+  "recorded_at_utc": "2026-09-19T21:14:12.876597+00:00",
+  "recording_stage": "Audit/packaging, using the same Python installation used for study execution",
+  "python": "3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]",
+  "executable": "C:\\Users\\sethp\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "1.26.4",
+    "scipy": "1.13.0",
+    "requests": "2.32.3",
+    "tzdata": "2024.1",
+    "matplotlib": "3.8.4"
+  },
+  "note": "This is not an independent immutable environment snapshot at original evaluation time; full transitive dependencies were not locked."
+}

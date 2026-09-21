@@ -33,6 +33,8 @@ Gain is market loss minus model loss in forecast-score units, not money. [The re
 
 Frozen study files are copied without modification. `.gitattributes` disables newline conversion to preserve their hashes. `PACKAGE_MANIFEST.json` describes the current tracked package files except itself and Git internals; each study also retains its original manifest. The [migration audit](docs/repository-migration-audit.md) records the import checks.
 
+Large raw responses, derived inputs, and source manifests are preserved in the [verified evidence archive](audit/README.md). Run `pwsh -File audit/Restore-Evidence.ps1` from the repository root before inspecting full source data or replaying a study. The archive restores original paths and verifies every file without overwriting differing local files. Its numbered parts keep each upload within the connected service's size limit.
+
 Use the individual study READMEs for dependencies and replay instructions. Historical absolute paths identify the original workspace; substitute the paths in this clone. Reproduce in a separate copy and preserve the committed evidence. Replaying exposed outcomes checks calculations; it is not a new validation experiment. Do not rerun the collectors to reproduce the retained study.
 
 The earlier package manifest and final review are preserved under [pre-repository history](docs/history/pre-repository-handoff/README-history.md). Their hashes describe the earlier package, not the updated governing documents.

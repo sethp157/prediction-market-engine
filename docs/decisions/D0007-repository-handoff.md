@@ -37,6 +37,8 @@ Current scope must be prominent. Older instructions in original/history snapshot
 
 This authority record does not itself certify a remote commit or push. Repository delivery and Git integrity are verified as part of the setup task.
 
+Publication uses the connected GitHub app after the native Git login was rejected for lacking repository access. Large immutable evidence is delivered as numbered, checksum-verified archive parts to fit the app's request limits; all current Markdown documentation remains directly browsable. The restoration utility recreates original paths and verifies original bytes. This is delivery tooling, not production-engine development. See [archive instructions](../../audit/README.md).
+
 ## Next permitted action after setup
 
 Explain or maintain the handoff and respond to the next concrete user direction. Bounded integrity checks remain within scope. Do not automatically resume the canceled diagnosis, mine exposed tests, launch another study, or build an engine.
